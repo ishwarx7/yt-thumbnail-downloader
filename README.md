@@ -1,4 +1,3 @@
-# yt-thumbnail-downloader
 # YouTube Thumbnail Downloader 🎥
 
 This is a simple web app that lets users extract and download thumbnails from any YouTube video using just its URL.
